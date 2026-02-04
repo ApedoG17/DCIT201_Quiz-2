@@ -1,6 +1,7 @@
 # DCIT 201: Java Methods Assessment (Quiz 2)
 **Name** : Apedo Godwin Mawulie Yaw
 **StudentID Number** : 22375204
+
 **Course:** DCIT 201 - Programming I  
 **Language:** Java  
 **Topics Covered:** Method Abstraction, Method Overloading, Modular Programming  
@@ -48,7 +49,10 @@ This program demonstrates Java's ability to differentiate methods by their param
 
 To run these programs locally, ensure you have Java installed.
 
-**Running the Grade Report:**
+**Running the Grade Report & Class Average Calculator:**
 ```bash
 javac GradeReport.java
 java GradeReport
+
+javac ClassAverageDemo.java
+java ClassAverageDemo
