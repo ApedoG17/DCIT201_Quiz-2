@@ -1,6 +1,6 @@
 # DCIT 201: Java Methods Assessment (Quiz 2)
 **Name** : Apedo Godwin Mawulie Yaw
-**StudentID Number** : 22375204
+ | **StudentID Number** : 22375204
 
 **Course:** DCIT 201 - Programming I  
 **Language:** Java  
